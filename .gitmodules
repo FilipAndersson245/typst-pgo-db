@@ -1,0 +1,6 @@
+[submodule "code/code/templates"]
+	path = code/code/templates
+	url = https://github.com/typst/templates.git
+[submodule "code/typst-templates"]
+	path = code/typst-templates
+	url = https://github.com/typst/templates.git
