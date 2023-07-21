@@ -4,3 +4,18 @@
 [submodule "code/typst-templates"]
 	path = code/typst-templates
 	url = https://github.com/typst/templates.git
+[submodule "code/typst-ansi_render"]
+	path = code/typst-ansi_render
+	url = https://github.com/8LWXpg/typst-ansi_render.git
+[submodule "code/typst-plot"]
+	path = code/typst-plot
+	url = https://github.com/johannes-wolf/typst-plot.git
+[submodule "code/typst-plotting"]
+	path = code/typst-plotting
+	url = https://github.com/Pegacraft/typst-plotting.git
+[submodule "code/CeTZ"]
+	path = code/CeTZ
+	url = https://github.com/johannes-wolf/typst-canvas.git
+[submodule "code/moderncv"]
+	path = code/moderncv
+	url = https://github.com/giovanniberti/moderncv.typst.git
